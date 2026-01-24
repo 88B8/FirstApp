@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
+    <string name="startString">Нажмите кнопку чтобы бросить кубик</string>
+    <string name="clickString">Нажми</string>
+    <string name="resultString">Результат: %1$d</string>
+    <string name="imageString">Картинка</string>
 </resources>
